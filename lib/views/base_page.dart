@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'file:///C:/Users/hp/AndroidStudioProjects/chidididit/lib/common.dart';
+import 'package:chidididit/common.dart';
 
 
 ClipPath triangleCLipPath([BuildContext? context]) {
