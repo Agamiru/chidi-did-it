@@ -10,3 +10,9 @@ A simple portfolio app that shows the technologies used to build the app and Rep
 - Setup Caching.
 - Enable read me view.
 
+
+
+**Android (.apk):** https://agamiru-flutter-builds.s3.amazonaws.com/android_builds/app-armeabi-v7a-release.apk
+
+**IOS (.ipa):** https://agamiru-flutter-builds.s3.amazonaws.com/ios_builds/Payload.ipa
+
